@@ -1,3 +1,8 @@
+# Project Weather App have PWA function
+
+Project can enter name of city and return data, from API in 'https://api.openweathermap.org/data/2.5/weather' , about temperatute and status of weather
+Project have PWA function like download web into device or website replace when not have internet
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
